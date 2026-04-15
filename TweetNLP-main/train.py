@@ -15,7 +15,7 @@ print("Using device:", device)
 
 # PATH
 if os.path.exists("/kaggle/input"):
-    BASE_PATH = "/kaggle/input/datasets/vya0651/tweetnlp-project-kavya/TweetNLP/dataset"
+    BASE_PATH = "/kaggle/input/datasets/Amrutha72006/TweetNLP/TweetNLP/dataset"
 else:
     BASE_PATH = "dataset"
 
